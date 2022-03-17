@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 <img src="https://user-images.githubusercontent.com/50003319/158323474-4ce50225-dc42-401f-be11-62ee95ced078.gif" title='Required features' width=250 alt='Required features' />
 
 #### Bonus Features:
-<img src="https://user-images.githubusercontent.com/50003319/158323474-4ce50225-dc42-401f-be11-62ee95ced078.gif" title='Required features' width=250 alt='Required features' />
+<img src="https://user-images.githubusercontent.com/50003319/158730426-e4d7d62e-67f1-4600-8897-b9961c95bf95.gif" title='Required features' width=250 alt='Required features' />
 
 # Twitter - Part I
 
